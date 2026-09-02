@@ -71,9 +71,13 @@ Cada exercício segue o mesmo fluxo:
 Checkpoint_01_2SEM_MLAM.ipynb
 
 ├── Exercício 1 — Saúde (exemplo resolvido)
+│
 ├── Exercício 2 — Economia (Adult Census Income)
+│
 ├── Exercício 3 — Desafio real (tema do grupo)
+│
 └── Parte 2 — Roteiro de apresentação
+
 ---
 
 ## Como executar
