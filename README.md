@@ -16,9 +16,9 @@ O notebook está dividido em três exercícios:
 
 | Exercício | Tema | Status |
 |---|---|---|
-| 1 | Saúde — classificação de tumores (Breast Cancer Wisconsin) | ✅ Exemplo resolvido (referência) |
-| 2 | Economia — classificação de faixa de renda (Adult Census Income) | ✅ Concluído |
-| 3 | Desafio real — tema escolhido pelo grupo | ✅ Concluído |
+| 1 | Saúde — classificação de tumores (Breast Cancer Wisconsin) | Exemplo resolvido (referência) |
+| 2 | Economia — classificação de faixa de renda (Adult Census Income) | Concluído |
+| 3 | Desafio real — tema escolhido pelo grupo | Concluído |
 
 Cada exercício segue o mesmo fluxo:
 
