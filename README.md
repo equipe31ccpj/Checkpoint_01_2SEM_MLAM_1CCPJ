@@ -5,7 +5,8 @@ Modelos de classificação
 Avaliação prática de modelos de classificação, aplicando um fluxo completo de ciência de dados: carga, exploração, pré-processamento, modelagem e avaliação.
 
 **Integrantes do grupo:**
-_Maria Eduarda Rocha Benjamim_
+_Maria Eduarda Rocha Benjamim;_
+
 _Pedro Herique Neves_
 
 **Turma:** _1CCPJ_
