@@ -39,13 +39,13 @@ Cada exercício segue o mesmo fluxo:
 ## Exercício 3 — Desafio real
 
 - **Tema escolhido:** _preencher (Saúde / Economia / Energia / Telecomunicações)_
-- **Fonte e link do dataset:** _preencher_
-- **Unidade representada por cada linha:** _preencher_
+- **Fonte e link do dataset:** _a preencher_
+- **Unidade representada por cada linha:** _a preencher_
 - **Variável-alvo:** _preencher_
-- **Significado das classes:** _preencher_
-- **Decisão que o modelo pretende apoiar:** _preencher_
-- **Possíveis consequências de falsos positivos:** _preencher_
-- **Possíveis consequências de falsos negativos:** _preencher_
+- **Significado das classes:** _a preencher_
+- **Decisão que o modelo pretende apoiar:** _a preencher_
+- **Possíveis consequências de falsos positivos:** _a preencher_
+- **Possíveis consequências de falsos negativos:** _a preencher_
 
 ### Resultados
 
