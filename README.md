@@ -5,8 +5,8 @@ Modelos de classificação
 Avaliação prática de modelos de classificação, aplicando um fluxo completo de ciência de dados: carga, exploração, pré-processamento, modelagem e avaliação.
 
 **Integrantes do grupo:** _preencher_
-**Turma:** _preencher_
-**Data:** _preencher_
+**Turma:** _1CCPJ_
+**Data:** _02/09/2026_
 
 ---
 
@@ -51,8 +51,8 @@ Cada exercício segue o mesmo fluxo:
 
 | Modelo | Acurácia |
 |---|---|
-| Regressão Logística | _preencher_ |
-| Segundo modelo (Árvore/Random Forest) | _preencher_ |
+| Regressão Logística | _84.19%_ |
+| Segundo modelo (Árvore/Random Forest) | _84.76%_ |
 
 ### Principais conclusões
 
