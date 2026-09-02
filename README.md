@@ -5,7 +5,9 @@ Modelos de classificação
 Avaliação prática de modelos de classificação, aplicando um fluxo completo de ciência de dados: carga, exploração, pré-processamento, modelagem e avaliação.
 
 **Integrantes do grupo:** _preencher_
+
 **Turma:** _1CCPJ_
+
 **Data:** _02/09/2026_
 
 ---
