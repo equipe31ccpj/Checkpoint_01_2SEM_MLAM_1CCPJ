@@ -1,8 +1,7 @@
 # Checkpoint 01 — Modelagem Linear para Aprendizado de Máquina
 
-## 1. Título e objetivo do projeto
 
-### Modelos de Classificação
+## Modelos de Classificação
 
 Este projeto tem como objetivo aplicar conceitos de **Machine Learning** para resolver problemas de classificação utilizando Python e bibliotecas de aprendizado de máquina.
 
